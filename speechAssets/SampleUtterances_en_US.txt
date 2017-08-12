@@ -1,0 +1,31 @@
+GetNewFactIntent a fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a fact about AI
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a fact on AI
+GetNewFactIntent give me something
+GetNewFactIntent tell me something about AI
+GetNewFactIntent tell me something
+GetNewFactIntent tell me an AI fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a trivia on AI
+GetNewFactIntent tell me an AI trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some AI information
+GetNewFactIntent give me some information about AI
+GetNewFactIntent tell me something about AI
+GetNewYearFactIntent tell me something interesting about {FACT_YEAR}
+GetNewYearFactIntent tell me an interesting fact about {FACT_YEAR}
+GetNewYearFactIntent tell me what happened in {FACT_YEAR}
+GetNewYearFactIntent tell me what AI related event happened in {FACT_YEAR}
+GetNewYearFactIntent tell me a fact about {FACT_YEAR}
+GetNewYearFactIntent tell me an AI fact about {FACT_YEAR}
+GetNewYearFactIntent give me an AI fact about {FACT_YEAR}
+GetNewYearFactIntent tell me an AI fact for {FACT_YEAR}
+GetNewYearFactIntent give me an AI fact for {FACT_YEAR}
+GetNewYearFactIntent tell me why is {FACT_YEAR} important for AI
+GetNewYearFactIntent tell me the significance of {FACT_YEAR} in AI
+GetNewYearFactIntent tell me  the importance of {FACT_YEAR} in AI
+GetNewYearFactIntent tell me why is {FACT_YEAR} significant in AI
+GetNewYearFactIntent tell me why is {FACT_YEAR} significant for AI
+GetNewYearFactIntent tell me what AI related development happened in {FACT_YEAR}
